@@ -20,7 +20,7 @@ export default function Home() {
             Join TalkHub today and connect with others effortlessly.
           </p>
           <a
-            href="https://github.com/yodkwtf/nexus-chat-application"
+            href="https://github.com/abhishek14702/Talkhub"
             className="mt-8 bg-gray-800  hover:bg-cyan-700 text-white py-2 px-8 rounded-full font-semibold shadow-md transition duration-300 ease-in-out w-auto max-w-lg mx-auto"
             title="GitHub Repository"
             target="_blank"
