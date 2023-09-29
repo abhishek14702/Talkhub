@@ -4,7 +4,7 @@ import Sidebar from '../components/sidebar/Sidebar';
 import UserList from './components/UserList';
 
 export const metadata: Metadata = {
-  title: 'All Users | Nexus - Your Ultimate Chat Experience',
+  title: 'All Users | TalkHub',
 };
 
 export default async function UsersLayout({
